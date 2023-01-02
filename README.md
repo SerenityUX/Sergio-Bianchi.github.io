@@ -1,5 +1,10 @@
 # Sergio-Bianchi.github.io
 
-#Build settings
+
+
+
+
+# Build settings
 theme: minima
 remote_theme: THEME-NAME
+
